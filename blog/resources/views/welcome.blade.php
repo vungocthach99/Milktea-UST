@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>MilkTea UST</title>
+	<title>Milktea UST</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link href="https://fonts.googleapis.com/css?family=Poppins:600&display=swap" rel="stylesheet">
 	<script src="https://kit.fontawesome.com/a81368914c.js"></script>
@@ -16,7 +16,7 @@
 		<div class="login-content">
 			<form action="index.html">
 				<img src="img/avatar.svg">
-				<h2 class="title">Welcome to Milktea UST</h2>
+				<h2 class="title">Welcome to MILKTEA UST</h2>
            		<div class="input-div one">
            		   <div class="i">
            		   		<i class="fas fa-user"></i>
